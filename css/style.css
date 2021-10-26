@@ -1,29 +1,46 @@
-* {
-    padding:0;
-    margin:0;
-    list-style:none;
-    border:0
+
+body{
+
+    align-items: center;
+    padding: inline 250px;;
     
-    }
+
+}
+
+img { 
+    align-items: center;
+
+    height: 500px;
+    width: 2000px;
+
+}
+
+header{align-items: center;
+    background-color: hsl(33, 61%, 85%);
     
-    header img { 
-        height:500px;
-        width: 200px;
-        padding: 5px;
-        background-color:rgb(238, 249, 253);
+
+}
         
-    }
+
     
     h1{
     
-        color: rgb(244, 250, 250);
+        color: rgb(247, 244, 250);
         text-align: center;
-        height: 400px;
+        height: 100px;
         font-size: 120px;
         font-family:'Times New Roman', Times, serif;
-        text-shadow:  0 0 0.2em rgb(214, 142, 75), 0 0 0.2em rgb(231, 239, 240),
+        text-shadow:  0 0 0.2em rgb(214, 142, 75), 0 0 0.2em rgb(33, 135, 160),
         0 0 0.2em rgba(236, 203, 111, 0.986);
         
     }
 
+    table{
+
+    font-size: large;
+    background-color: antiquewhite;
+    width: 1900px;
+    text-align: center;
+
+    }
     
